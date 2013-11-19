@@ -1,0 +1,16 @@
+{
+  "name": "scroll",
+  "version": "0.0.1",
+  "description": "jQuery based scrollLetf and scrollTop",
+  "repo": "ramitos/scroll",
+  "keywords": ["scrollLetf", "scrollTop", "scroll"],
+  "homepage": "https://github.com/ramitos/scroll",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/scroll.js",
+  "scripts": ["src/scroll.js"],
+  "dependencies": {
+    "ramitos/getWindow": "*"
+  }
+}
